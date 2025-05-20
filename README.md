@@ -1,0 +1,2 @@
+# VIKOR
+VIKOR MCDM
